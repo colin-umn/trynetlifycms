@@ -1,5 +1,6 @@
 backend:
-  name: test-repo
+  name: github
+  repo: colin-umn/trynetlifycms
 publish_mode: editorial_workflow
 media_folder: "images/uploads"
 collections:
